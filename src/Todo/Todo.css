@@ -1,0 +1,15 @@
+.todo-list {
+  text-align:center;
+  border:1px solid black;
+  border-radius:10px;
+  padding-top:5px;
+  padding-bottom:5px;
+}
+
+.delete-button {
+  padding-right: 1rem;
+}
+
+.edit-button {
+  margin-right: 1rem;
+}
