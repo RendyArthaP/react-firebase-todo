@@ -8,4 +8,7 @@ This is my first project with React!
 3. Run `npm install`
 4. Run `npm start`
 
+I already deploy it:
+https://react-todo-app-d1ba9.web.app/
+
 Thank you
