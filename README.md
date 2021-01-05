@@ -1,6 +1,6 @@
 # Hello Everyone!
 
-This is my first project with React! 
+This is my first project with React & Firebase! 
 
 ### How to run this project:
 1. Clone this repository: `git clone https://github.com/RendyArthaP/react-firebase-todo.git`
